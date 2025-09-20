@@ -92,3 +92,6 @@ public class StudentManagementSystem {
         }
     }
 }
+
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/3f22617a-3f3e-4e44-92bf-46be350747d0" />
+
